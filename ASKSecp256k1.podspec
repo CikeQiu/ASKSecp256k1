@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/askcoin/ASKSecp256k1.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/CikeQiu/ASKSecp256k1.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
