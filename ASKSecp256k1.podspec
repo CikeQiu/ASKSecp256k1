@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ASKSecp256k1"
-  s.version      = "0.0.4"
+  s.version      = "0.0.5"
   s.summary      = "An library of secp256k1 can use in iOS project."
 
   # This description is used to generate tags and improve search results.
@@ -52,7 +52,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "HongYang Qiu" => "qiuhongyang@askcoin.org" }
+  s.author             = { "HongYang Qiu" => "work_cocody@hotmail.com" }
   # Or just: s.author    = "HongYang Qiu"
   # s.authors            = { "HongYang Qiu" => "qiuhongyang@askcoin.org" }
   # s.social_media_url   = "http://twitter.com/HongYang Qiu"
